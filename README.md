@@ -92,10 +92,6 @@ You can customize the following in `backend.py`:
 - Check that your Twitter Developer account has the necessary permissions
 - Ensure the `progressbar.jpg` file is writable by the script
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 For questions or assistance, please open an issue on the repository. 
